@@ -1,7 +1,7 @@
-#Stella's First CS193 Lab
+# Stella's First CS193 Lab
 
-##My Favorite Things About CS193
+## My Favorite Things About CS193
 
--coding
--the cool instructors
--the attendance quizzes
+- coding
+- the cool instructors
+- the attendance quizzes
